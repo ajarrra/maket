@@ -210,7 +210,21 @@ footer{
   display: flex;
   flex-direction: column;
   max-width: 350px;
+  margin: 0 auto 86px;
+}
+
+.img_insta img{
   margin: 0 auto;
+  width: 443px;
+  margin-bottom: 99px;
+}
+
+.like_me{
+  text-align: center;
+  color: #828282;
+  font-size: 14px;
+  line-height: 17px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
