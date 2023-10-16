@@ -141,6 +141,7 @@ h2 {
 .portfolio {
   background: #f6f6f6;
   padding: 123px 0 96px;
+  margin-bottom: 115px;
 }
 
 .portfolio_box {
@@ -169,6 +170,30 @@ h2 {
 .portfolio_link a:hover {
   color: #828282;
 }
+
+footer{
+  padding: 0 0 123px;
+
+}
+
+.footer_txt{
+  text-align: center;
+  font-size: 18px;
+  max-width: 275px;
+  margin: 0 auto 30px;
+}
+
+.footer_btn{
+  color: #fff;
+  text-align: center;
+  height: 42px;
+  font-weight: 700;
+  font-size: 18px;
+  background-color: #070707;
+  
+}
+
+
 
 
 
