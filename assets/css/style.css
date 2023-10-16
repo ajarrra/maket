@@ -198,12 +198,20 @@ footer{
 
 .footer_phone{
   border-radius: 30px;
-  height: 42px;
-  
+  height: 36px;
+  padding: 0 30px ;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 15px;
 }
 
 
-
+.footer_form{
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  margin: 0 auto;
+}
 
 
 
