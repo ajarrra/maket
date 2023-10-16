@@ -147,6 +147,10 @@ h2 {
   margin-bottom: 100px;
 }
 
+.portfolio_box:last-child {
+  margin-bottom: 0px;
+}
+
 .portfolio_link {
   text-align: center;
   font-style: 18px;
@@ -165,3 +169,7 @@ h2 {
 .portfolio_link a:hover {
   color: #828282;
 }
+
+
+
+
